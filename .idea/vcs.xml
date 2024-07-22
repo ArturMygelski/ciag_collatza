@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Song_lyrics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ladowarka_paczek" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_7" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson_9/kurs30" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsluga_bazy_szkolnej" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/obsluga_biblioteki_zewnetrznej" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/program_do_zarzadzania_plikami_csv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prosty_system_ksiegowy_magazyn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prosty_system_ksiegowy_magazyn_json" vcs="Git" />
+  </component>
+</project>
